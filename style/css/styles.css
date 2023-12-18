@@ -17,7 +17,7 @@ body {
 #yesButton {
     position: absolute;
     margin-right: 150px;
-    top: 480px;
+    top: 640px;
     /* Smooth movement */
 }
 
@@ -63,5 +63,5 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 120px;
+    margin-left: 70px;
 }
