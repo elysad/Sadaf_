@@ -10,6 +10,7 @@ body {
 #noButton {
     position: absolute;
     margin-left: 150px;
+    top: 700px
     transition: 0.5s;
     /* Smooth movement */
 }
@@ -17,6 +18,7 @@ body {
 #yesButton {
     position: absolute;
     margin-right: 150px;
+    top: 700px
     /* Smooth movement */
 }
 
