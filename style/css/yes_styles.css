@@ -40,6 +40,17 @@ body {
     margin-bottom: 0px;
 }
 
+.small_text {
+    font-family: 'Nunito';
+    font-size: 12px;
+    font-weight: normal;
+    color: red;
+    position: absolute;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
 .buttons {
     display: flex;
     flex-direction: row;
